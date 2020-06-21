@@ -1,0 +1,6 @@
+{'email': 'jayneel2001@gmail.com', 'subject': 'greeting', 'Message': 'good evening'}
+{'email': 'aaa@gmail.com', 'subject': 'covid 19', 'Message': 'all will be getting soon'}
+{'email': 'jayneel2001@yahoo.in', 'subject': 'random', 'Message': 'hi\r\nhow are you'}
+{'email': 'ccc@gmail.com', 'subject': 'c vs python', 'Message': 'Which language is better C or Python'}
+{'email': 'abcd@yahoo.com', 'subject': 'C', 'Message': 'printf("Hello World");'}
+{'email': 'xyz@gmail.com', 'subject': 'hello', 'Message': 'hi'}
