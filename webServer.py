@@ -1,4 +1,4 @@
-#it based on flask
+#it based on flask framework
 from flask import Flask,request,render_template,url_for,redirect
 import csv
 app=Flask(__name__)
